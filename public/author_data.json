@@ -1,102 +1,102 @@
 [
   {
     "id": 1,
-    "cover_photo": "https://i.ibb.co.com/QPtCCkR/travel-tourism-facebook-cover-template-106176-3071.jpg",
+    "cover_img": "https://i.ibb.co.com/QPtCCkR/travel-tourism-facebook-cover-template-106176-3071.jpg",
     "title": "The Journey Within",
     "author": "Emily Rose",
-    "author_image": "https://i.ibb.co.com/H2SfF3M/caleb-george-Fm-Mivfg-HCi-M-unsplash.jpg",
-    "posted_date": "2024-11-01",
-    "reading_time": "8 min",
-    "hashtag": "#selfdiscovery #inspiration"
+    "author_img": "https://i.ibb.co.com/H2SfF3M/caleb-george-Fm-Mivfg-HCi-M-unsplash.jpg",
+    "post_date": "2024-11-01",
+    "time": "8 min",
+    "hashtag": ["#selfdiscovery #inspiration"]
   },
   {
     "id": 2,
-    "cover_photo": "https://i.ibb.co.com/Ypcn81b/flat-design-real-estate-twitter-header-23-2149199677.jpg",
+    "cover_img": "https://i.ibb.co.com/Ypcn81b/flat-design-real-estate-twitter-header-23-2149199677.jpg",
     "title": "Whispers of the Night",
     "author": "Liam Walker",
-    "author_image": "https://i.ibb.co.com/BVbXS4T/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
-    "posted_date": "2024-12-05",
-    "reading_time": "12 min",
-    "hashtag": "#mystery #thriller"
+    "author_img": "https://i.ibb.co.com/BVbXS4T/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+    "post_date": "2024-12-05",
+    "time": "12 min",
+    "hashtag": ["#mystery #thriller"]
   },
   {
     "id": 3,
-    "cover_photo": "https://i.ibb.co.com/5xvxm1D/travel-tourism-facebook-cover-template-106176-3082.jpg",
+    "cover_img": "https://i.ibb.co.com/5xvxm1D/travel-tourism-facebook-cover-template-106176-3082.jpg",
     "title": "The Art of Happiness",
     "author": "Sophia Green",
-    "author_image": "https://i.ibb.co.com/yFM55BL/andrew-milko-Lsp-K43-Ud-Fo4-unsplash.jpg",
-    "posted_date": "2024-10-20",
-    "reading_time": "6 min",
-    "hashtag": "#wellbeing #positivity"
+    "author_img": "https://i.ibb.co.com/yFM55BL/andrew-milko-Lsp-K43-Ud-Fo4-unsplash.jpg",
+    "post_date": "2024-10-20",
+    "time": "6",
+    "hashtag": ["#wellbeing #positivity"]
   },
   {
     "id": 4,
-    "cover_photo": "https://i.ibb.co.com/QvC6zBX/flat-design-photographer-template-23-2150292739.jpg",
+    "cover_img": "https://i.ibb.co.com/QvC6zBX/flat-design-photographer-template-23-2150292739.jpg",
     "title": "Echoes of the Past",
     "author": "Daniel Black",
-    "author_image": "https://i.ibb.co.com/wgk9xtP/river-fx-Rp-LZWi-Vlra-Y-unsplash.jpg",
-    "posted_date": "2024-08-15",
-    "reading_time": "10 min",
-    "hashtag": "#historicalfiction #drama"
+    "author_img": "https://i.ibb.co.com/wgk9xtP/river-fx-Rp-LZWi-Vlra-Y-unsplash.jpg",
+    "post_date": "2024-08-15",
+    "time": "10",
+    "hashtag": ["#historicalfiction #drama"]
   },
   {
     "id": 5,
-    "cover_photo": "https://i.ibb.co.com/wdc4Jy2/travel-tourism-facebook-cover-template-106176-3076.jpg",
+    "cover_img": "https://i.ibb.co.com/wdc4Jy2/travel-tourism-facebook-cover-template-106176-3076.jpg",
     "title": "The Last Horizon",
     "author": "Grace Parker",
-    "author_image": "https://i.ibb.co.com/dkp5hDQ/joshua-earle-p2-TQ-3-Bh3-Oo-unsplash.jpg",
-    "posted_date": "2024-09-30",
-    "reading_time": "14 min",
-    "hashtag": "#adventure #sci-fi"
+    "author_img": "https://i.ibb.co.com/dkp5hDQ/joshua-earle-p2-TQ-3-Bh3-Oo-unsplash.jpg",
+    "post_date": "2024-09-30",
+    "time": "14",
+    "hashtag": ["#adventure #sci-fi"]
   },
   {
     "id": 6,
-    "cover_photo": "https://i.ibb.co.com/821D0cB/gradient-car-rental-social-media-cover-template-23-2149228182.jpg",
+    "cover_img": "https://i.ibb.co.com/821D0cB/gradient-car-rental-social-media-cover-template-23-2149228182.jpg",
     "title": "Silent Voices",
     "author": "Harper Blake",
-    "author_image": "https://i.ibb.co.com/5TCts4R/vitaly-taranov-f-W2jv1-L7ye-A-unsplash.jpg",
-    "posted_date": "2024-07-12",
-    "reading_time": "7 min",
-    "hashtag": "#mystery #fiction"
+    "author_img": "https://i.ibb.co.com/5TCts4R/vitaly-taranov-f-W2jv1-L7ye-A-unsplash.jpg",
+    "post_date": "2024-07-12",
+    "time": "7",
+    "hashtag": ["#mystery #fiction"]
   },
   {
     "id": 7,
-    "cover_photo": "https://i.ibb.co.com/XCJFzNC/6566007.jpg",
+    "cover_img": "https://i.ibb.co.com/XCJFzNC/6566007.jpg",
     "title": "The Golden Path",
     "author": "Oliver Knight",
-    "author_image": "https://i.ibb.co.com/whLmPJ0/darshan-gajara-xv09-UYi6j-So-unsplash.jpg",
-    "posted_date": "2024-06-03",
-    "reading_time": "15 min",
-    "hashtag": "#adventure #history"
+    "author_img": "https://i.ibb.co.com/whLmPJ0/darshan-gajara-xv09-UYi6j-So-unsplash.jpg",
+    "post_date": "2024-06-03",
+    "time": "15",
+    "hashtag": ["#adventure #history"]
   },
   {
     "id": 8,
-    "cover_photo": "https://i.ibb.co.com/yybYgVt/10281489.jpg",
+    "cover_img": "https://i.ibb.co.com/yybYgVt/10281489.jpg",
     "title": "Into the Storm",
     "author": "Lara Woods",
-    "author_image": "https://i.ibb.co.com/B2vd8pj/brooke-cagle-R8b-NESnn-KR8-unsplash.jpg",
-    "posted_date": "2024-05-20",
-    "reading_time": "11 min",
-    "hashtag": "#action #suspense"
+    "author_img": "https://i.ibb.co.com/B2vd8pj/brooke-cagle-R8b-NESnn-KR8-unsplash.jpg",
+    "post_date": "2024-05-20",
+    "time": "11",
+    "hashtag": ["#action #suspense"]
   },
   {
     "id": 9,
-    "cover_photo": "https://i.ibb.co.com/1qYT8TQ/6940684.jpg",
+    "cover_img": "https://i.ibb.co.com/1qYT8TQ/6940684.jpg",
     "title": "Beneath the Surface",
     "author": "Nina Hart",
-    "author_image": "https://i.ibb.co.com/7zHH7BS/fx-rijkard-LPd-Cgbm0s-o-unsplash.jpg",
-    "posted_date": "2024-04-08",
-    "reading_time": "9 min",
-    "hashtag": "#romance #drama"
+    "author_img": "https://i.ibb.co.com/7zHH7BS/fx-rijkard-LPd-Cgbm0s-o-unsplash.jpg",
+    "post_date": "2024-04-08",
+    "time": "9",
+    "hashtag": ["#romance #drama"]
   },
   {
     "id": 10,
-    "cover_photo": "https://i.ibb.co.com/k0M4MyG/horizontal-robot-automation-concept-landing-page-with-isometric-image-robotic-manipulator-maintenanc.jpg",
+    "cover_img": "https://i.ibb.co.com/k0M4MyG/horizontal-robot-automation-concept-landing-page-with-isometric-image-robotic-manipulator-maintenanc.jpg",
     "title": "A New Dawn",
     "author": "James Clearwater",
-    "author_image": "https://i.ibb.co.com/rpTkWH5/steven-su-kb-Zk-BKr-YBAk-unsplash.jpg",
-    "posted_date": "2024-01-15",
-    "reading_time": "13 min",
-    "hashtag": "#hope #newbeginnings"
+    "author_img": "https://i.ibb.co.com/rpTkWH5/steven-su-kb-Zk-BKr-YBAk-unsplash.jpg",
+    "post_date": "2024-01-15",
+    "time": "13",
+    "hashtag": ["#hope #newbeginnings"]
   }
 ]
