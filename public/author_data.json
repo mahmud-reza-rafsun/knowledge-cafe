@@ -5,17 +5,17 @@
     "title": "The Journey Within: Discover Yourself",
     "cc": "The Journey Within: Discover Yourself",
     "author": "Emily Rose",
-    "author_img": "https://i.ibb.co.com/H2SfF3M/caleb-george-Fm-Mivfg-HCi-M-unsplash.jpg",
+    "author_img": "https://i.ibb.co.com/whLmPJ0/darshan-gajara-xv09-UYi6j-So-unsplash.jpg",
     "post_date": "2024-11-01",
     "time": 8,
     "hashtag": ["#selfdiscovery #inspiration"]
   },
   {
     "id": 2,
-    "cover_img": "https://i.ibb.co.com/Ypcn81b/flat-design-real-estate-twitter-header-23-2149199677.jpg",
+    "cover_img": "https://i.ibb.co.com/wdc4Jy2/travel-tourism-facebook-cover-template-106176-3076.jpg",
     "title": "Whispers of the Night: A Mystery Awaits",
     "author": "Liam Walker",
-    "author_img": "https://i.ibb.co.com/BVbXS4T/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+    "author_img": "https://i.ibb.co.com/wgk9xtP/river-fx-Rp-LZWi-Vlra-Y-unsplash.jpg",
     "post_date": "2024-12-05",
     "time": 12,
     "hashtag": ["#mystery #thriller"]
@@ -35,69 +35,19 @@
     "cover_img": "https://i.ibb.co.com/QvC6zBX/flat-design-photographer-template-23-2150292739.jpg",
     "title": "Echoes of the Past: A Historical Drama",
     "author": "Daniel Black",
-    "author_img": "https://i.ibb.co.com/wgk9xtP/river-fx-Rp-LZWi-Vlra-Y-unsplash.jpg",
+    "author_img": "https://i.ibb.co.com/B2vd8pj/brooke-cagle-R8b-NESnn-KR8-unsplash.jpg",
     "post_date": "2024-08-15",
     "time": 10,
     "hashtag": ["#historicalfiction #drama"]
   },
   {
     "id": 5,
-    "cover_img": "https://i.ibb.co.com/wdc4Jy2/travel-tourism-facebook-cover-template-106176-3076.jpg",
+    "cover_img": "https://i.ibb.co.com/821D0cB/gradient-car-rental-social-media-cover-template-23-2149228182.jpg",
     "title": "The Last Horizon: Adventures Beyond",
     "author": "Grace Parker",
     "author_img": "https://i.ibb.co.com/dkp5hDQ/joshua-earle-p2-TQ-3-Bh3-Oo-unsplash.jpg",
     "post_date": "2024-09-30",
     "time": 14,
     "hashtag": ["#adventure #sci-fi"]
-  },
-  {
-    "id": 6,
-    "cover_img": "https://i.ibb.co.com/821D0cB/gradient-car-rental-social-media-cover-template-23-2149228182.jpg",
-    "title": "Silent Voices: The Mystery Unfolds",
-    "author": "Harper Blake",
-    "author_img": "https://i.ibb.co.com/5TCts4R/vitaly-taranov-f-W2jv1-L7ye-A-unsplash.jpg",
-    "post_date": "2024-07-12",
-    "time": 7,
-    "hashtag": ["#mystery #fiction"]
-  },
-  {
-    "id": 7,
-    "cover_img": "https://i.ibb.co.com/XCJFzNC/6566007.jpg",
-    "title": "The Golden Path: A Journey Through Time",
-    "author": "Oliver Knight",
-    "author_img": "https://i.ibb.co.com/whLmPJ0/darshan-gajara-xv09-UYi6j-So-unsplash.jpg",
-    "post_date": "2024-06-03",
-    "time": 15,
-    "hashtag": ["#adventure #history"]
-  },
-  {
-    "id": 8,
-    "cover_img": "https://i.ibb.co.com/yybYgVt/10281489.jpg",
-    "title": "Into the Storm: Battling the Unknown",
-    "author": "Lara Woods",
-    "author_img": "https://i.ibb.co.com/B2vd8pj/brooke-cagle-R8b-NESnn-KR8-unsplash.jpg",
-    "post_date": "2024-05-20",
-    "time": 11,
-    "hashtag": ["#action #suspense"]
-  },
-  {
-    "id": 9,
-    "cover_img": "https://i.ibb.co.com/1qYT8TQ/6940684.jpg",
-    "title": "Beneath the Surface: A Love Story",
-    "author": "Nina Hart",
-    "author_img": "https://i.ibb.co.com/7zHH7BS/fx-rijkard-LPd-Cgbm0s-o-unsplash.jpg",
-    "post_date": "2024-04-08",
-    "time": 9,
-    "hashtag": ["#romance #drama"]
-  },
-  {
-    "id": 10,
-    "cover_img": "https://i.ibb.co.com/k0M4MyG/horizontal-robot-automation-concept-landing-page-with-isometric-image-robotic-manipulator-maintenanc.jpg",
-    "title": "A New Dawn: Embracing New Beginnings",
-    "author": "James Clearwater",
-    "author_img": "https://i.ibb.co.com/rpTkWH5/steven-su-kb-Zk-BKr-YBAk-unsplash.jpg",
-    "post_date": "2024-01-15",
-    "time": 13,
-    "hashtag": ["#hope #newbeginnings"]
   }
 ]
